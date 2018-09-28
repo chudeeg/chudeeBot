@@ -1,0 +1,1 @@
+[null,{"name":"witaj","temp":"","event-type":"6","actions":[{"channel":"7","varName":"nowi","message":"${member}","storage":"0","varName2":"","name":"Send Message"},{"channel":"7","varName":"nowi","message":"```\nWitaj Na chudeeSpeak'u ! \nWSZYSTKIE Komendy są pod !pomoc\nWłaściciel servera: chudee#1043\n\n```","storage":"0","varName2":"","name":"Send Message"}]}]
